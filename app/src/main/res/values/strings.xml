@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DATABASE_SQLITE</string>
+    <string name="title_activity_invoice">InvoiceActivity</string>
+</resources>
